@@ -1,6 +1,4 @@
-Here is a polished, professional `README.md` tailored to your profile as an aspiring Machine Learning Engineer. It highlights the project's educational value while keeping the tone clean and modern.
 
-```markdown
 # 🤖 Rule-Based AI Chatbot
 
 A lightweight, rule-based chatbot built with **Python** that simulates conversation using conditional logic. This project serves as a foundational introduction to conversational AI, demonstrating core programming concepts like control flow, string manipulation, and user interaction handling without relying on external dependencies.
